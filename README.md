@@ -5,4 +5,4 @@ Site portfolio de curso Alura
 HTML e CSS
 
 ## 📁 Acesso ao projeto
-[Veja o site em funcionamento] (https://projeto-html-css-delta.vercel.app/index.html).
+[Veja o site em funcionamento](https://projeto-html-css-delta.vercel.app/index.html).
